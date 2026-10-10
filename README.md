@@ -91,6 +91,13 @@ After the workflow runs, confirm the exact generated filenames in the repository
 
 Use the actual output path from the action version you pin. For reproducibility, replace `@latest` with a reviewed release tag or commit SHA.
 
+<h2 align="center">🌃 My 3D Contribution City</h2>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=1"
+       alt="My GitHub contributions in a 3D night city"
+       width="100%">
+</p>
 ## Compatibility notes
 
 - All five SVG cards are self-contained and embed their image assets as base64 PNGs. No remote image/font assets are requested.
